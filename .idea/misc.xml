@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/selfstudy&amp;courses/ITI/android_training_summer/Android/day10/BankSystem/app/src/main/res/drawable/bottom_bg.xml" value="0.14635416666666667" />
+        <entry key="..\:/selfstudy&amp;courses/ITI/android_training_summer/Android/day10/BankSystem/app/src/main/res/drawable/buttonstyle.xml" value="0.1685185185185185" />
+        <entry key="..\:/selfstudy&amp;courses/ITI/android_training_summer/Android/day10/BankSystem/app/src/main/res/drawable/gradientbackground.xml" value="0.25416666666666665" />
+        <entry key="..\:/selfstudy&amp;courses/ITI/android_training_summer/Android/day10/BankSystem/app/src/main/res/drawable/header_bg.xml" value="0.1" />
+        <entry key="..\:/selfstudy&amp;courses/ITI/android_training_summer/Android/day10/BankSystem/app/src/main/res/layout/activity_admin1.xml" value="0.25416666666666665" />
+        <entry key="..\:/selfstudy&amp;courses/ITI/android_training_summer/Android/day10/BankSystem/app/src/main/res/layout/activity_login.xml" value="0.13020833333333334" />
+        <entry key="..\:/selfstudy&amp;courses/ITI/android_training_summer/Android/day10/BankSystem/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/selfstudy&amp;courses/ITI/android_training_summer/Android/day10/BankSystem/app/src/main/res/layout/activity_sign_in.xml" value="0.6" />
+        <entry key="..\:/selfstudy&amp;courses/ITI/android_training_summer/Android/day10/BankSystem/app/src/main/res/layout/activity_sign_up.xml" value="0.25416666666666665" />
+        <entry key="..\:/selfstudy&amp;courses/ITI/android_training_summer/Android/day10/BankSystem/app/src/main/res/layout/activity_user_profile.xml" value="0.4" />
+        <entry key="..\:/selfstudy&amp;courses/ITI/android_training_summer/Android/day10/BankSystem/app/src/main/res/layout/activity_withdraw_deposit.xml" value="0.264" />
+        <entry key="..\:/selfstudy&amp;courses/ITI/android_training_summer/Android/day10/BankSystem/app/src/main/res/layout/form_signin.xml" value="0.264" />
+        <entry key="..\:/selfstudy&amp;courses/ITI/android_training_summer/Android/day10/BankSystem/app/src/main/res/layout/gradientbackground.xml" value="0.264" />
+        <entry key="..\:/selfstudy&amp;courses/ITI/android_training_summer/Android/day10/BankSystem/app/src/main/res/layout/signup_form.xml" value="0.264" />
+        <entry key="..\:/selfstudy&amp;courses/ITI/android_training_summer/Android/day10/BankSystem/app/src/main/res/layout/wid_dep.xml" value="0.4" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
